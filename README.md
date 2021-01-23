@@ -5,8 +5,8 @@ The keys for different operations can be seen by right-clicking on the output sc
 We can also click and drag around to change the orientation of the cube.<br>
 
 To execute this in a Linux terminal, the commands are:<br>
-- To open the file: __gedit RCube.c__
-- To compile the file: __gcc RCube.c -lGL -lGLU -lglut -lm__
-- To execute the file: __./a.out__
+- To open the file: `gedit RCube.c`
+- To compile the file: `gcc RCube.c -lGL -lGLU -lglut -lm`
+- To execute the file: `./a.out`
 
 Make sure OpenGL is installed in the system to run this program.
